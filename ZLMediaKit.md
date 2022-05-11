@@ -1,6 +1,8 @@
 # 参考文献
 
 - https://juejin.cn/post/7013168501607104543
+- https://www.codeleading.com/article/71405758490/
+- https://notemi.cn/wvp---zlmedia-kit---mediaserverui-to-realize-streaming-playback-and-recording-of-camera-gb28181.html
 
 # 端口
 
